@@ -1,0 +1,8 @@
+# JavaStudy 
+.settings
+bin/
+.classpath
+.project
+
+# common
+.metadata
